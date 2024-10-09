@@ -5,8 +5,8 @@ torjc01/shortnsweet
 | Site            | Github                    | DigitalOcean                | Micro | Porta | Linha de comando                                       |
 |-----------------|---------------------------|-----------------------------|-------|-------|--------------------------------------------------------|
 | Short'n'Sweet   | [torjc01/shortnsweet](https://github.com/torjc01/shortnsweet) | /app/nestjs/shortnsweet | n/a | 8024 | cd app/nestjs/shortnsweet; docker-compose up -d &      |
-| Kryptogarten.ca | [torjc01/kryptogarten-site](https://github.com/torjc01/kryptogarten-site) | /app/node/kryptogarten-site | n/a | 4000 | docker run -d -p 4000:3000 juliozohar/kryptogarten:1.0 |
-| 4e Soldat       | [torjc01/4eSoldatSite](https://github.com/torjc01/4eSoldatSite) | /app/node/4eSoldatSite | n/a | 3000 | docker run -d -p 3000:3000 juliozohar/4esoldat:1.1     |
+| Kryptogarten.ca | [torjc01/kryptogarten-site](https://github.com/torjc01/kryptogarten-site) | /app/node/kryptogarten-site | n/a | 4000 | docker run -d -p 4000:3000 juliozohar/kryptogarten:1.0 & |
+| 4e Soldat       | [torjc01/4eSoldatSite](https://github.com/torjc01/4eSoldatSite) | /app/node/4eSoldatSite | n/a | 3000 | docker run -d -p 3000:3000 juliozohar/4esoldat:1.1 &    |
 
 
 ## Referências
